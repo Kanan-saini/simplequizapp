@@ -1,4 +1,4 @@
-# 🧠 Stylish Quiz App – Flutter
+# 🧠 Simple Quiz App – Flutter
 
 A minimal & simple quiz app built using Flutter. It features 10 MCQs, square buttons with custom colors, and a clean UI – all inside a single `main.dart` file. Great project for Flutter beginners.
 
@@ -6,9 +6,8 @@ A minimal & simple quiz app built using Flutter. It features 10 MCQs, square but
 
 ## ✅ Features
 
-- 🎯 10 Multiple Choice Questions on Flutter basics  
-- 🔲 Stylish square buttons (no default pill buttons)  
-- 🎨 Custom color theme (not purple)  
+- 🎯 10 Multiple Choice Questions on Flutter basics    
+- 🎨 Custom color theme 
 - 🧠 Score tracking with result display  
 - 🔁 Option to restart the quiz  
 - 🗂️ All code written in a single `main.dart` file  
